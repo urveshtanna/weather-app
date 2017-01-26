@@ -12,4 +12,4 @@ Steps to run the application (if you have node already installed):
 2. `node app.js` or `app-promise.js`
 
 
-If help need just type `npm app.js --help`or `npm app-promise.js`
+If help needed just type `npm app.js --help`or `npm app-promise.js`
